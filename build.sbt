@@ -16,4 +16,3 @@ retrieveManaged := true
 resolvers += "Akka Repository" at "http://repo.akka.io/releases/"
 
 
-EclipseKeys.withSource := true
