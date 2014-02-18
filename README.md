@@ -3,6 +3,8 @@ mongo-spark
 
 Example application on how to use [mongo-hadoop][1] connector with [Apache Spark][2].
 
+Read more details at http://codeforhire.com/2014/02/18/using-spark-with-mongodb/
+
 [1]: https://github.com/mongodb/mongo-hadoop
 [2]: https://spark.incubator.apache.org/
 
